@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "递归与迭代：求n的阶乘（不考虑溢出）", "递归与迭代：求n的阶乘（不考虑溢出）\递归与迭代：求n的阶乘（不考虑溢出）.vcxproj", "{564D54A2-26EE-4121-A7BF-E279F2A40D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Debug|x64.ActiveCfg = Debug|x64
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Debug|x64.Build.0 = Debug|x64
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Debug|x86.ActiveCfg = Debug|Win32
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Debug|x86.Build.0 = Debug|Win32
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Release|x64.ActiveCfg = Release|x64
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Release|x64.Build.0 = Release|x64
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Release|x86.ActiveCfg = Release|Win32
+		{564D54A2-26EE-4121-A7BF-E279F2A40D84}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BED734-D98D-4109-95E9-F166E25CC245}
+	EndGlobalSection
+EndGlobal
