@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数：每调用一次这个函数，就会将num的值增加1", "函数：每调用一次这个函数，就会将num的值增加1\函数：每调用一次这个函数，就会将num的值增加1.vcxproj", "{262D7252-9D7B-48EB-B2FF-8105BB41FD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Debug|x64.ActiveCfg = Debug|x64
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Debug|x64.Build.0 = Debug|x64
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Debug|x86.ActiveCfg = Debug|Win32
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Debug|x86.Build.0 = Debug|Win32
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Release|x64.ActiveCfg = Release|x64
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Release|x64.Build.0 = Release|x64
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Release|x86.ActiveCfg = Release|Win32
+		{262D7252-9D7B-48EB-B2FF-8105BB41FD65}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211F87DD-41EC-455C-A4DD-A49B11A21EDB}
+	EndGlobalSection
+EndGlobal
