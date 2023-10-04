@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C语言\两数相加及scanf\两数相加及scanf\源.cpp(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  两数相加及scanf.vcxproj -> D:\C语言\两数相加及scanf\x64\Debug\两数相加及scanf.exe
