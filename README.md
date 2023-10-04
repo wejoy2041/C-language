@@ -1,2 +1,8 @@
 # C-language
-Beginner C language code collection. 初学C语言的代码合集。
+C语言学习
+
+操作环境：Visual Studio 2022
+
+操作系统：windows 11
+
+本代码是初学C语言，跟b站鹏哥后面编写的代码合集。源代码中有部分注释，可供理解。各文件夹的源代码在文件夹下与上一层同名的文件夹中的源.cpp文件中。
