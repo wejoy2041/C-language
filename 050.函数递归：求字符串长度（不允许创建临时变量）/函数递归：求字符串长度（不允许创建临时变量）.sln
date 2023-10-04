@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数递归：求字符串长度（不允许创建临时变量）", "函数递归：求字符串长度（不允许创建临时变量）\函数递归：求字符串长度（不允许创建临时变量）.vcxproj", "{374F5F3E-10A9-4429-A134-E1F765D51AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Debug|x64.ActiveCfg = Debug|x64
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Debug|x64.Build.0 = Debug|x64
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Debug|x86.Build.0 = Debug|Win32
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Release|x64.ActiveCfg = Release|x64
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Release|x64.Build.0 = Release|x64
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Release|x86.ActiveCfg = Release|Win32
+		{374F5F3E-10A9-4429-A134-E1F765D51AF2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E13846-ED42-435C-B51C-2E86CCA27406}
+	EndGlobalSection
+EndGlobal
