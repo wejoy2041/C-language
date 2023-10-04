@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C语言\22.循环语句\循环语句\源.cpp(15,9): warning C4778: “printf”: 格式字符串“%\n”未终止
+  循环语句.vcxproj -> D:\C语言\22.循环语句\x64\Debug\循环语句.exe
